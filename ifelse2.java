@@ -6,35 +6,35 @@ public class ifelse2 {
         Scanner sc = new Scanner(System.in);
 
 
-          System.out.println("enter the  first  number ");
-          int num1 = sc.nextInt();
+//           System.out.println("enter the  first  number ");
+//           int num1 = sc.nextInt();
 
-        System.out.print("enter the  second  number");
-          int num2 = sc.nextInt();
+//         System.out.print("enter the  second  number");
+//           int num2 = sc.nextInt();
 
-        System.out.print("enter the  operator (+,-,*,/): ");
-                   char op = sc.next().charAt(0);
+//         System.out.print("enter the  operator (+,-,*,/): ");
+//                    char op = sc.next().charAt(0);
 
 
-                   if (op == '+'){
+//                    if (op == '+'){
 
-            System.out.println("Answer = " + (num1 + num2));
+//             System.out.println("Answer = " + (num1 + num2));
                        
-                   }
-                    else if(op == '-'){
-                                System.out.println("Answer = " + (num1 - num2));
-                   }
+//                    }
+//                     else if(op == '-'){
+//                                 System.out.println("Answer = " + (num1 - num2));
+//                    }
 
-                   else if (op == '*'){
-                    System.out.println("Answer = " + (num1 * num2));
-                   }
-                   else if (op == '/'){
+//                    else if (op == '*'){
+//                     System.out.println("Answer = " + (num1 * num2));
+//                    }
+//                    else if (op == '/'){
 
-                    System.out.println("Answer = " + (num1 / num2));
-                   }
-                   else{
-                    System.out.println("invalid");
-                   }
+//                     System.out.println("Answer = " + (num1 / num2));
+//                    }
+//                    else{
+//                     System.out.println("invalid");
+//                    }
 
 
 
